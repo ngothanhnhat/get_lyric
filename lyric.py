@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from urllib import request
-import requests
 import chilkat
 import codecs
 import sys
